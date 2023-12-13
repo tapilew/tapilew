@@ -1,5 +1,7 @@
-## Hello GitHub
+## Hi there
 
-🚀 I'm hacking my way to **build legendary shit.**
+I'm **Luis** Tapia Navarro - aka **Tapi** `@tapilew` on the web.
 
-📌 Want to know more about me? Check out [my blog](https://tapilew.blog)!
+🚀 Building legendary shit is the way.
+
+🐧 Check out [my blog](https://blog.tapi.ac) btw. I use Arch btw.
