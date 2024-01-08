@@ -1,7 +1,7 @@
 ## Hi there
 
-I'm **Luis** Tapia Navarro - aka **Tapi** `@tapilew` on the web.
+I'm **Luis** Tapia Navarro 👉 Call me **Tapi** [`@tapilew`](https://x.com/tapilew)
 
-🚀 Building legendary shit is the way.
+> 🚀 "Build [legendary shit](https://youtube.com/watch?v=FyY0fEO5jVY&t=2605)"
 
-🐧 Check out [my blog](https://blog.tapi.ac) btw. I use Arch btw.
+🐧 Checkout my [blog](https://blog.tapi.ac) btw. I use <s>Arch</s> Linux Mint btw.
