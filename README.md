@@ -1,6 +1,6 @@
-## Hi there
+## who tf is tapi.. ?!
 
-I'm **Luis** Tapia Navarro 👉 Call me **Tapi** [@tapilew](https://x.com/tapilew)
+Hey, I'm **tapi..** Luis Tapia N. 👉 [@tapilew](https://x.com/tapilew)
 
 > 🚀 "Build [legendary shit](https://youtube.com/watch?v=FyY0fEO5jVY&t=2605)"
 
