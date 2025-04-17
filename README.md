@@ -8,7 +8,7 @@ Hey, I'm **Tapi..** Luis Tapia (`@tapilew`)
 
 ---
 
-### 🎨Frontend Web Developer
+### 🎨Frontend Web(3) Developer
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,40 +21,13 @@ Hey, I'm **Tapi..** Luis Tapia (`@tapilew`)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
----
-
-### 📚 Collaborator of [educational projects](https://github.com/hackatomik/SISCOx256)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-### 🤖 Interested in AI, DataViz, BI, and Fullstack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-### 🎓 MIS Engineering undergraduate student
-
-_Universidad Tecnológica de Panamá_ [`(UTP)`](https://utp.ac.pa)
-
-_Facultad de Ingeniería de Sistemas Computacionales_ [`(FISC)`](https://fisc.utp.ac.pa)
-
----
-
-### 🚀 Love to BUIDL Web3 @ [`Hackatomik [H9]`](https://hackatomik.com) & [`Parkin Cryptos`](https://parkincryptos.com)
-
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 
+
 ---
 
-### 🐧 I _(still don't)_ use Arch, btw
 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🚀 Building [`Hackatomik [H9]`](https://hackatomik.com)
+
+
+
