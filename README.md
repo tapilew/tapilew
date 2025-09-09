@@ -8,7 +8,7 @@ Hey, I'm **Tapi..** Luis Tapia (`@tapilew`)
 
 ---
 
-### 🎨Frontend Web(3) Developer
+### 🎨 Product Manager & Frontend Web(3) Engineer
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -22,12 +22,5 @@ Hey, I'm **Tapi..** Luis Tapia (`@tapilew`)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
-
-
----
-
-
-### 🚀 Building [`Hackatomik [H9]`](https://hackatomik.com)
-
 
 
