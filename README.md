@@ -55,6 +55,3 @@ Hey, I'm **TAPI..** Luis Tapia (`@tapilew`)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F.svg?style=for-the-badge&logo=Drizzle&logoColor=black)
-
-![Contabo](https://img.shields.io/badge/Contabo-00AAEB.svg?style=for-the-badge&logo=Contabo&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67.svg?style=for-the-badge&logo=Odoo&logoColor=white)
