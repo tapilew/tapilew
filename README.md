@@ -41,6 +41,15 @@ Hey, I'm **TAPI..** Luis Tapia (`@tapilew`)
 ![NEAR](https://img.shields.io/badge/NEAR-000000.svg?style=for-the-badge&logo=NEAR&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)
 
+other blockchain things i couldn't find the shield for 😭:
+
+<a href="https://www.avax.network/">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/avalanche-avax-icon.png" alt="Avalanche" height="20">
+</a>
+<a href="https://polkadot.com">
+  <img src="https://raw.githubusercontent.com/Tomen/polkadot-second-age-brand-kit/main/icon/png/256x256/polkadot-icon__cool-gray-on-near-black.png" alt="Polkadot" height="20">
+</a>
+
 #### linux things
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
