@@ -1,6 +1,6 @@
-# TAPI..
+# Hey!, It's TAPI..
 
-Hey, I'm **TAPI..** Luis Tapia (`@tapilew`)
+Luis Tapia (`@tapilew`)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tapilew) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tapilew) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tapilew) 
 
@@ -34,21 +34,12 @@ Hey, I'm **TAPI..** Luis Tapia (`@tapilew`)
 #### blockchain things
 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2.svg?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![NEAR](https://img.shields.io/badge/NEAR-000000.svg?style=for-the-badge&logo=NEAR&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)
-
-other blockchain things i couldn't find the shield for 😭:
-
-<a href="https://www.avax.network/">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/avalanche-avax-icon.png" alt="Avalanche" height="20">
-</a>
-<a href="https://polkadot.com">
-  <img src="https://raw.githubusercontent.com/Tomen/polkadot-second-age-brand-kit/main/icon/png/256x256/polkadot-icon__cool-gray-on-near-black.png" alt="Polkadot" height="20">
-</a>
 
 #### linux things
 
