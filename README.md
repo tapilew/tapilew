@@ -1,4 +1,4 @@
-# Hey!, It's TAPI..
+# Hey!, It's Tapi
 
 Luis Tapia (`@tapilew`)
 
