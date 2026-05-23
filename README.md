@@ -31,7 +31,7 @@ Luis Tapia (`@tapilew`)
 ![Convex](https://img.shields.io/badge/Convex-EE342F.svg?style=for-the-badge&logo=Convex&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-000000.svg?style=for-the-badge&logo=PostHog&logoColor=white)
 
-#### blockchain things
+#### blockchain things [🔺](https://avax.network)
 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -40,6 +40,7 @@ Luis Tapia (`@tapilew`)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2.svg?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![NEAR](https://img.shields.io/badge/NEAR-000000.svg?style=for-the-badge&logo=NEAR&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)
+
 
 #### linux things
 
