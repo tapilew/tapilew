@@ -11,7 +11,6 @@ Luis Tapia (`@tapilew`)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000.svg?style=for-the-badge&logo=Deno&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -45,6 +44,13 @@ Luis Tapia (`@tapilew`)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=claudecode&logoColor=fff&style=for-the-badge)
 ![Pi Badge](https://img.shields.io/badge/Pi-000?logo=pi&logoColor=fff&style=for-the-badge)
 
+### devops things
+
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge)
+![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
+
 ### linux things
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
@@ -57,15 +63,10 @@ Luis Tapia (`@tapilew`)
 
 ### terminal things
 
-![WezTerm](https://img.shields.io/badge/WezTerm-4E49EE?logo=wezterm&logoColor=fff&style=for-the-badge)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge)
 ![Zsh Badge](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=for-the-badge)
 ![Starship](https://img.shields.io/badge/Starship-DD0B78?logo=starship&logoColor=fff&style=for-the-badge)
-
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge)
-![LazyVim](https://img.shields.io/badge/LazyVim-2E7DE9.svg?style=for-the-badge&logo=LazyVim&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000080?logo=lua&logoColor=fff&style=for-the-badge)
 
 ### other things
 
